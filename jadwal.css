@@ -1,0 +1,53 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 90%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    font-size: 13px;
+}
+
+.waktu {
+    background-color: #e0e0e0;
+    font-weight: bold;
+}
+
+.senin {
+    background-color: #f4b6b6;
+}
+
+.selasa {
+    background-color: #b9f6b0;
+}
+
+.rabu {
+    background-color: #c6c2f5;
+}
+
+.kamis {
+    background-color: #f6e59c;
+}
+
+.proyek {
+    background-color: #f4b6b6;
+    font-weight: bold;
+}
+
+.istirahat {
+    background-color: #e0e0e0;
+    font-weight: bold;
+}
+
+
